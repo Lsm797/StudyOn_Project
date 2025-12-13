@@ -29,7 +29,7 @@ O sistema também prevê a existência de um **perfil administrador**, responsá
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Linguagem de programação: *(ex: Python / JavaScript)*
+* Linguagem de programação: *Python*
 * Armazenamento de dados: **JSON**
 * Versionamento: **GitHub**
 * Desenvolvido por: ANDREIA / BIANCA / ELLEN / LUIS GUSTAVO / RAYLLA 
