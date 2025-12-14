@@ -1105,3 +1105,4 @@ while True:
             print("E-mail não encontrado. Verifique e tente novamente.")
     else:
         print("Opção inválida. Tente novamente.\n")
+        
